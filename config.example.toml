@@ -1,0 +1,28 @@
+# Foxhole Quartermaster 配置示例
+# 复制为 config.toml 后修改
+
+# 监听地址
+listen = "127.0.0.1:8080"
+
+# 数据库文件路径（相对工作目录或绝对路径）
+db_path = "data/stock.db"
+
+# 资源目录（图标缓存等）
+assets_dir = "assets"
+
+# 日志目录
+log_dir = "logs"
+
+# 调试日志
+debug = false
+
+# 军团 owner 的 Steam64ID（17 位数字字符串）
+# 首次启动时若 users 表无此 ID，将自动以 owner 身份插入并标记 must_reset_pw
+owner_steam64id = "76561198000000000"
+
+# session cookie 加密用的随机 key（32 字节 hex，建议 openssl rand -hex 32 生成）
+# 不填则启动时随机生成（重启会让所有会话失效）
+session_key = ""
+
+# session 过期秒数，默认 30 天
+session_ttl_seconds = 2592000

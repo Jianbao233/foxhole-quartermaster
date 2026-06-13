@@ -1,0 +1,44 @@
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+go.work.sum
+
+# 本工程产物
+/build/
+/dist/
+/tmp/
+/logs/
+/data/
+/assets/icons/*
+!/assets/icons/.gitkeep
+!/assets/icons/_unknown.png
+
+# SQLite
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite-*
+
+# 配置（不提交真实配置，留 example）
+/config.toml
+!/config.example.toml
+
+# 前端
+/web/node_modules/
+/web/dist/
+/web/.vite-cache/
+/web/.vite/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
