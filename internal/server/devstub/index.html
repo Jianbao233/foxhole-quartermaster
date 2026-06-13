@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>foxhole-quartermaster (dev stub)</title>
+<style>
+body{font-family:-apple-system,Segoe UI,sans-serif;background:#1a1a1a;color:#ddd;margin:40px;line-height:1.6}
+code{background:#333;padding:1px 6px;border-radius:3px;color:#fff}
+a{color:#67c23a}
+.box{max-width:640px;margin:auto;border:1px solid #444;border-radius:6px;padding:24px}
+h1{color:#67c23a;margin-top:0}
+</style>
+</head>
+<body>
+<div class="box">
+<h1>Foxhole Quartermaster</h1>
+<p>后端正在以 <b>开发占位模式</b> 运行（未嵌入 web/dist）。</p>
+<p>启动前端 dev server：</p>
+<pre><code>pnpm -C web install
+pnpm -C web dev</code></pre>
+<p>之后浏览器打开 <a href="http://localhost:5173">http://localhost:5173</a>。</p>
+<p>如果想生产构建嵌入到二进制，先 <code>pnpm -C web build</code>，再 <code>go build -tags embedweb</code>。</p>
+<p>API 健康检查：<a href="/healthz">/healthz</a></p>
+</div>
+</body>
+</html>

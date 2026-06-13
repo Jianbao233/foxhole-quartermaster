@@ -1,0 +1,439 @@
+Umbral Wildwood - The Gap - 海港 - Public - X: 0.3849427 Y: 0.5281526,2026.06.13-06.48.16
+“Dusk” ce.III (箱装),0
+Booker风暴步枪Model 838 (箱装),0
+Aalto风暴步枪24 (箱装),0
+7.92mm (箱装),0
+Catara mo.II (箱装),0
+KRN886-127 Gast Machine Gun (箱装),0
+Malone MK.2 (箱装),0
+Bomastone手榴弹 (箱装),0
+A3 Harpa破片手榴弹 (箱装),0
+Ferro 879 (箱装),0
+Cascadier 873 (箱装),0
+Ahti Model 2 (箱装),0
+8mm (箱装),0
+Cometa T2-9 (箱装),0
+Hangman 757式步枪 (箱装),0
+.44弹 (箱装),0
+Catena IV型自动步枪 (箱装),0
+Sampo 77式自动步枪 (箱装),0
+Argenti r.II步枪 (箱装),0
+Volta r.I Repeater (箱装),0
+Fuscina pi.I (箱装),0
+Blakerow 871 (箱装),0
+KRR2-790 Omen (箱装),0
+Clancy Cinder M3 (箱装),0
+No.2B Hawthorne (箱装),0
+No.2 Loughcaster (箱装),0
+KRR3-792 Auger (箱装),0
+Clancy-Raca M4 (箱装),0
+7.62mm (箱装),0
+KRF1-750 Dragonfly (箱装),0
+No.4 The Pillory Scattergun (箱装),0
+散弹 (箱装),0
+“The Pitch Gun” mc.V冲锋枪 (箱装),0
+“Lionclaw” mc.VIII (箱装),0
+No.1 “The Liar”冲锋枪 (箱装),0
+Fiddler868型冲锋枪 (箱装),0
+9mm (箱装),1
+228 Satterley Heavy Storm Rifle (箱装),0
+Booker Greyhound Model 910 (箱装),0
+“Dawn” Ve.II (箱装),0
+“Quickhatch” Rt.I (箱装),0
+“Typhon” ra.XII (箱装),0
+Neville反坦克步枪 (箱装),0
+14.5mm (箱装),0
+Venom c.II 35 (箱装),0
+Bane 45 (箱装),0
+Carnyx反坦克火箭发射器 (箱装),0
+穿甲/火箭弹 (箱装),0
+架设式Bonesaw MK.3 (箱装),0
+Bonesaw MK.3 (箱装),0
+曲射/火箭弹 (箱装),0
+“Molten Wind” v.II火焰喷射器 (箱装),0
+Willow’s Bane Model 845 (箱装),0
+KLG901-2 Lunaire F (箱装),0
+架设式Fissura gd.I (箱装),3
+Tremola GPb-1高爆枪榴弹 (箱装),0
+PT-815烟雾弹 (箱装),0
+Green Ash手榴弹 (箱装),0
+Lamentum mm.IV (箱装),4
+Malone Ratcatcher MK.1 (箱装),0
+12.7mm (箱装),0
+Daucus isg.III (箱装),0
+30mm (箱装),0
+Cremari迫击炮 (箱装),0
+迫击炮燃烧弹 (箱装),0
+迫击炮照明弹 (箱装),0
+迫击炮破片弹 (箱装),0
+迫击炮炮弹 (箱装),0
+BF5 White Ash烧瓶手榴弹 (箱装),0
+B2 Varsi Anti-Tank Grenade (箱装),0
+Ignifist 30 (箱装),0
+Mammon 91-b (箱装),0
+反坦克粘弹 (箱装),0
+Cutler Foebreaker (箱装),0
+Cutler Launcher 4 (箱装),0
+RPG (箱装),0
+950-70b防空炮弹 (箱装),0
+20mm (箱装),0
+94.5mm (箱装),0
+75mm (箱装),0
+Mark II Raidbreaker (箱装),0
+Shatter火箭弹 (箱装),0
+Model-7 “Evie” (箱装),0
+912 Shrike Rounds (箱装),0
+4C-燃烧火箭弹 (箱装),0
+喷火器燃料 (箱装),0
+150mm (箱装),0
+3C-高爆火箭弹 (箱装),0
+Absol防空炮弹 (箱装),0
+120mm (箱装),0
+300mm (箱装),0
+Quillback鱼雷 (箱装),0
+250mm "Purity" Shell (箱装),0
+250mm "Fury" Shell (箱装),0
+E681-B Hullbreaker Mine (箱装),0
+68mm (箱装),0
+40mm (箱装),0
+军团旌旗 (箱装),0
+战旗 (箱装),0
+铁丝网 (箱装),0
+Buckhorn CCQ-18 (箱装),0
+望远镜 (箱装),0
+Hydra’s Whisper (箱装),0
+Havoc Charge (箱装),0
+“Molten Wind” v.II燃料 (箱装),0
+Willow's Bane燃料 (箱装),0
+Crow’s Foot Mine (箱装),0
+侦听设备 (箱装),0
+Falias Raiding Club (箱装),0
+钢梁 (箱装),11
+伞兵背包 (箱装),0
+无线电背包 (箱装),0
+沙袋 (箱装),0
+Havoc Charge起爆器 (箱装),0
+Alligator Charge (箱装),0
+铲子 (箱装),0
+大锤 (箱装),0
+Eleos Infantry Dagger (箱装),0
+Abisme AT-99 Mine (箱装),0
+三脚架 (箱装),22
+E680-S Rudder Lock (箱装),0
+风向袋 (箱装),0
+锤子 (箱装),0
+扳手 (箱装),0
+水桶 (箱装),0
+水 (箱装),0
+防毒面具 (箱装),0
+防毒面具滤嘴 (箱装),0
+Ospreay枪榴弹发射器 (箱装),0
+无线电 (箱装),0
+联络发射机 (箱装),0
+绷带 (箱装),0
+医疗箱 (箱装),0
+急救箱 (箱装),0
+血浆 (箱装),0
+士兵补给 (箱装),0
+柴油 (箱装),0
+不稳定物质 (箱装),0
+热屏蔽层 (箱装),0
+精制建筑材料 (箱装),0
+钢制建筑材料 (箱装),0
+装配材料 I (箱装),0
+装配材料 II (箱装),0
+装配材料 III (箱装),0
+装配材料 IV (箱装),0
+装配材料 V (箱装),0
+稀有合金 (箱装),0
+重油 (箱装),0
+浓缩油 (箱装),0
+石油 (箱装),0
+汽油 (箱装),0
+管道 (箱装),0
+铝合金 (箱装),0
+基础材料 (箱装),260
+铜合金 (箱装),0
+爆炸火药 (箱装),7
+建筑材料 (箱装),111
+稀有材料 (箱装),0
+砂砾 (箱装),88
+重型爆炸火药 (箱装),0
+铁合金 (箱装),0
+维护补给 (箱装),0
+遗迹材料 (箱装),0
+精炼材料 (箱装),0
+专业技术兵制服 (箱装),0
+Velian防弹背心 (箱装),0
+炮手胸甲 (箱装),0
+Fabri背包 (箱装),0
+工程兵制服 (箱装),0
+掷弹兵专用肩带 (箱装),0
+医疗兵制服 (箱装),0
+外科医生夹克 (箱装),0
+Remex Garb (箱装),0
+Gentleman’s Peacoat (箱装),0
+军官的衣着 (箱装),0
+军官的制服 (箱装),0
+南风部队背带 (箱装),0
+Cloudrunner’s Vesture (箱装),0
+Lodesman’s Lorica (箱装),0
+飞行员戎装 (箱装),0
+军团油布雨衣 (箱装),0
+侦察迷彩服 (箱装),0
+斥候斗篷 (箱装),0
+厚重棉服 (箱装),0
+Caoivish连帽大衣 (箱装),0
+军团作战服 (箱装),0
+步兵战斗服 (箱装),0
+坦克兵作战服 (箱装),0
+衬垫连体服 (箱装),0
+Colonial飞行器引擎 (小型) (箱装),0
+Warden飞行器引擎 (小型) (箱装),0
+受损的Colonial飞行器引擎 (小型) (箱装),0
+受损的Warden飞行器引擎 (小型) (箱装),0
+Colonial飞行器机械组件 (小型) (箱装),0
+Warden飞行器机械组件 (小型) (箱装),0
+受损的Colonial飞行器机械组件 (小型) (箱装),0
+受损的Warden飞行器机械组件 (小型) (箱装),0
+
+R-12 - “Salus”救护车,0
+R-12b - “Salva”消防车,0
+Dunne Dousing Engine 3r,0
+Dunne Responder 3e,0
+O’Brien V.101 Freeman,0
+O’Brien v.200 Squire,0
+O’Brien V.190 Knave,0
+O’Brien V.113 Gravekeeper,0
+T3 “Xiphos”,0
+O’Brien V.130 Wild Jack,0
+O’Brien V.121 Highlander,0
+T5 “Percutio”,0
+T8 “Gemini”,0
+O’Brien V.110,0
+BMS - Aquatipper,0
+R-15 - “Chariot”,0
+Dunne Caravaner 2f,0
+BMS - Universal Assembly Rig,0
+BMS - Fabricator,0
+BMS -2型 移动式吊车,0
+Noble Firebrand Mk. XVII,0
+Noble Widow MK. XIV,0
+GA6 “Cestus”,0
+Duncan’s Coin 14.5mm,0
+AA-2 "Battering Ram",0
+Balfour Rampart 68mm,0
+Collins Cannon 68mm,0
+40-45 “Smelter”,0
+Balfour Wolfhound 40mm,0
+G40 “Sagittarii”,0
+Swallowtail 988/127-2,0
+30-250 “Tisiphone”野战炮,0
+Balfour Falconer 250mm,0
+BMS - Packmule 平板卡车,0
+BMS - Ironship,25
+VAC制造：Das Krokodil,0
+Type B - “Lucian”,0
+81f-f Ronan Blackguard,0
+Type C - “Charon”,0
+74b-1 Ronan Gunship,0
+HH-d “Peltast”,0
+HH-a “Javelin”,0
+HH-b “Hoplite”,0
+Niska-Rycker Mk. IX Skycaller,0
+Niska Mk. II Blinder,0
+Niska Mk. III Scar Twin,0
+Niska Mk. I Gun Motor Carriage,0
+BMS - Scrap Hauler,0
+AU-A150 Taurine Rigger,0
+Cnute Cliffwrest,0
+AB-8 “Acheron”,0
+AB-11 “Doru”,0
+Mulloy LPC,0
+945g “Stygian Bolt”,0
+Balfour Stockade 75mm,0
+120-68 “Koronides”野战榴弹炮,0
+40-250 “Alekto” Heavy Cannon,0
+Rycker 4/3-F Wasp Nest,0
+K-81e “Sombre”,1
+68A-4 Ronan Fathomer,0
+HC-2 “Scorpion”,0
+HA-1 “Sagaris”,0
+Sharkey-Devitt Birdeater Mk. I,0
+Devitt-Caine Mk. IV MMR,0
+H-5 "Hatchet",0
+Devitt Ironhide Mk. IV,0
+H-19 “Vulcan”,0
+H-8 “Kranesca”,0
+H-10 “Pelekys”,0
+Devitt Mk. III,0
+Strider,1
+Rinnspeir Ornitier-Class Gunship,0
+86K-a “Bardiche”,0
+Gallagher Thornfall Mk. VI,0
+Gallagher Highwayman Mk. III,0
+Gallagher Outlaw Mk. II,0
+86K-c “Ranseur”,0
+Gallagher Brigand Mk. I,0
+90T-v “Nemesis”,0
+Silverhand Lordscar - Mk. X,0
+85K-b “Falchion”,0
+85V-g "Talos",0
+85K-a “Spatha”,0
+Silverhand Chieftain - Mk. VI,0
+Silverhand - Mk. IV,0
+Bellweather by VAC,0
+HC-7 "Ballista",0
+03MM “Caster”,0
+00MS “Stinger”,0
+Kivela Power Wheel 80-1,0
+King Jester Mk. I-1,0
+King Gallant Mk. II,0
+King Spire Mk. I,0
+UV-05a “Argonaut”,0
+UV-24 “Icarus”,0
+Drummond Spitfire 100d,0
+UV-5c “Odyssey”,0
+Drummond Loscann 55c,0
+Drummond 100a,0
+T12 “Actaeon"小坦克,0
+T14 “Vesta”小坦克,0
+T13 “Deioneus”火箭炮车,0
+T20 “Ixion”小坦克,0
+Rooster - Lamploader,0
+Rooster - Tumblebox,0
+Rooster - Junkwagon,0
+R-1 Hauler,0
+Dunne Leatherback 2a,0
+RR-3 “Stolon”油罐车,0
+Dunne Fuelrunner 2d,0
+R-5b “Sisyphus” Hauler,0
+Dunne Landrunner 12c,0
+R-17 “Retiarius” Skirmisher,0
+R-9 “Speartip” Escort,0
+R-5 “Atlas” Hauler,0
+Dunne Loadlugger 3c,0
+Dunne Transport,0
+
+V-1 Tzykalia (箱装),0
+Tulka P4 Welkinrive (箱装),0
+Mergo-4 “Myrmidon” (箱装),0
+Toxot-902 “Blind Silver” (箱装),0
+Luminary Mk. II Harbinger (箱装),0
+V-5b Pegasus (箱装),0
+Rinnspeir Mk. I Zealot (箱装),0
+A59 Venti “Perdix” (箱装),0
+Luminary Mk. VI Emissary (箱装),0
+A51 Venti “Daedalus” (箱装),0
+Luminary Mk. IV Herald (箱装),0
+M925 Austringer Man-O-War (箱装),0
+Tulka I1.9 White Raven (箱装),0
+R-12 - “Salus”救护车 (箱装),0
+Dunne Responder 3e (箱装),0
+O’Brien V.190 Knave (箱装),0
+T3 “Xiphos” (箱装),0
+O’Brien V.110 (箱装),0
+BMS - Aquatipper (箱装),0
+R-15 - “Chariot” (箱装),0
+Dunne Caravaner 2f (箱装),0
+BMS - Universal Assembly Rig (箱装),0
+BMS -2型 移动式吊车 (箱装),0
+Noble Widow MK. XIV (箱装),0
+AA-2 "Battering Ram" (箱装),0
+Collins Cannon 68mm (箱装),0
+Balfour Wolfhound 40mm (箱装),0
+G40 “Sagittarii” (箱装),0
+Swallowtail 988/127-2 (箱装),0
+30-250 “Tisiphone”野战炮 (箱装),0
+Balfour Falconer 250mm (箱装),0
+BMS - Packmule 平板卡车 (箱装),0
+BMS - Ironship (箱装),0
+VAC制造：Das Krokodil (箱装),0
+Type B - “Lucian” (箱装),0
+81f-f Ronan Blackguard (箱装),0
+Type C - “Charon” (箱装),0
+74b-1 Ronan Gunship (箱装),0
+HH-a “Javelin” (箱装),0
+Niska Mk. I Gun Motor Carriage (箱装),0
+AB-8 “Acheron” (箱装),0
+Mulloy LPC (箱装),0
+120-68 “Koronides”野战榴弹炮 (箱装),0
+K-81e “Sombre” (箱装),0
+68A-4 Ronan Fathomer (箱装),0
+HC-2 “Scorpion” (箱装),0
+HA-1 “Sagaris” (箱装),0
+Sharkey-Devitt Birdeater Mk. I (箱装),0
+H-5 "Hatchet" (箱装),0
+Devitt Mk. III (箱装),0
+Strider (箱装),0
+Rinnspeir Ornitier-Class Gunship (箱装),0
+86K-a “Bardiche” (箱装),0
+Gallagher Brigand Mk. I (箱装),0
+90T-v “Nemesis” (箱装),0
+85K-b “Falchion” (箱装),0
+Silverhand - Mk. IV (箱装),0
+Bellweather by VAC (箱装),0
+03MM “Caster” (箱装),0
+Kivela Power Wheel 80-1 (箱装),0
+King Spire Mk. I (箱装),0
+UV-05a “Argonaut” (箱装),0
+Drummond 100a (箱装),0
+T12 “Actaeon"小坦克 (箱装),0
+Rooster - Lamploader (箱装),0
+Rooster - Tumblebox (箱装),0
+Rooster - Junkwagon (箱装),0
+R-1 Hauler (箱装),0
+RR-3 “Stolon”油罐车 (箱装),0
+Dunne Fuelrunner 2d (箱装),0
+R-5 “Atlas” Hauler (箱装),0
+Dunne Loadlugger 3c (箱装),0
+Dunne Transport (箱装),0
+
+混凝土搅拌机,0
+施工设备,0
+DAE 5b “Zeal”,0
+Leary AA-70 Bolas,0
+Huber Starbreaker 94.5mm,0
+Leary Shellbore 68mm,0
+DAE 2a-1 “Ruptura”,0
+50-500 “Thunderbolt” Cannon,0
+Huber Exalt 150mm,0
+DAE 1o-3 “Polybolos”,0
+DAE 1b-2 “Serra”,0
+Leary Snare Trap 20,0
+Huber Lariat 120mm,0
+DAE 3b-2 “Hades’ Net”,0
+建筑部件,0
+地下要塞部件,0
+情报中心部件,0
+飞行器雷达部件,0
+风暴巨炮部件,0
+建筑部件,0
+气象站部件,0
+液体罐,3
+材料运货板,0
+资源集装箱,2
+A0E-9火箭助推器,0
+A0E-9火箭箭体,0
+A0E-9火箭战斗部,0
+军舰船体分段,0
+军舰外壳覆层,0
+军舰涡轮部件,0
+货运集装箱,2
+
+混凝土搅拌机 (箱装),0
+施工设备 (箱装),0
+DAE 5b “Zeal” (箱装),0
+Leary AA-70 Bolas (箱装),0
+Leary Shellbore 68mm (箱装),0
+50-500 “Thunderbolt” Cannon (箱装),0
+Huber Exalt 150mm (箱装),0
+DAE 1o-3 “Polybolos” (箱装),0
+DAE 1b-2 “Serra” (箱装),0
+Leary Snare Trap 20 (箱装),0
+Huber Lariat 120mm (箱装),0
+液体罐 (箱装),0
+材料运货板 (箱装),0
+资源集装箱 (箱装),0
+货运集装箱 (箱装),7
+

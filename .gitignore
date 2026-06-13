@@ -14,6 +14,8 @@ go.work.sum
 /dist/
 /tmp/
 /logs/
+/_toolchain/
+/_gopath/
 /data/
 /assets/icons/*
 !/assets/icons/.gitkeep

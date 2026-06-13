@@ -1,0 +1,1 @@
+import{b as t}from"./index-Bd8jH-Rp.js";const p={list:()=>t.get("/api/items"),detail:(e,i)=>t.get(i?`/api/items/${encodeURIComponent(e)}?war_id=${i}`:`/api/items/${encodeURIComponent(e)}`)};export{p as i};

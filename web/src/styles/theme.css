@@ -1,0 +1,138 @@
+/* Foxhole 风暗色主题微调，覆盖 ElementPlus 默认 */
+:root {
+  color-scheme: dark;
+}
+
+html,
+body,
+#app {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: #14181d;
+  color: #d8dde4;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC',
+    'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif;
+}
+
+html.dark {
+  --el-color-primary: #67c23a;
+  --el-bg-color: #14181d;
+  --el-bg-color-page: #14181d;
+  --el-bg-color-overlay: #1d2228;
+  --el-text-color-primary: #d8dde4;
+  --el-text-color-regular: #b6bcc6;
+  --el-border-color: #303942;
+  --el-border-color-light: #2a323a;
+  --el-fill-color-blank: #1a1f25;
+  --el-fill-color-light: #1d2228;
+}
+
+.app-shell {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+.app-main {
+  flex: 1;
+  padding: 20px;
+}
+.app-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 0 20px;
+  height: 56px;
+  background: #1a1f25;
+  border-bottom: 1px solid var(--el-border-color);
+}
+.app-title {
+  color: var(--el-color-primary);
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  font-size: 16px;
+  margin-right: 16px;
+}
+.app-header .el-menu {
+  flex: 1;
+  border-bottom: none;
+  background: transparent;
+}
+.app-header .el-menu--horizontal {
+  border-bottom: none;
+}
+.app-user {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  color: var(--el-text-color-regular);
+}
+
+.auth-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: linear-gradient(160deg, #14181d 0%, #0e1216 100%);
+}
+.auth-card {
+  width: 380px;
+  padding: 32px 32px 24px;
+  background: #1a1f25;
+  border: 1px solid var(--el-border-color);
+  border-radius: 8px;
+  box-shadow: 0 6px 30px rgba(0, 0, 0, 0.4);
+}
+.auth-title {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 16px;
+  color: var(--el-color-primary);
+  text-align: center;
+}
+.auth-foot {
+  margin-top: 12px;
+  text-align: center;
+  font-size: 13px;
+  color: var(--el-text-color-regular);
+}
+.auth-foot a {
+  color: var(--el-color-primary);
+}
+
+.section-title {
+  margin: 0 0 12px 0;
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--el-text-color-primary);
+}
+
+.flex-row {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.muted {
+  color: var(--el-text-color-regular);
+  font-size: 13px;
+}
+
+.code-inline {
+  background: #2a323a;
+  padding: 1px 6px;
+  border-radius: 3px;
+  font-family: ui-monospace, Consolas, monospace;
+  font-size: 12px;
+}
+
+.icon-img {
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+  vertical-align: middle;
+  background: #1d2228;
+  border-radius: 4px;
+}

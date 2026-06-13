@@ -2,8 +2,8 @@
 # 用法：在工作区根目录执行  . ./scripts/activate.ps1
 
 $workspace = (Resolve-Path "$PSScriptRoot/..").Path
-$env:GOROOT = "$workspace\tmp\toolchain\go"
-$env:GOPATH = "$workspace\tmp\gopath"
+$env:GOROOT = "$workspace\_toolchain\go"
+$env:GOPATH = "$workspace\_gopath"
 $env:GOPROXY = "https://goproxy.cn,direct"
 $env:GOMODCACHE = "$env:GOPATH\pkg\mod"
 

@@ -2,7 +2,7 @@
 # 复制为 config.toml 后修改
 
 # 监听地址
-listen = "127.0.0.1:8080"
+listen = "127.0.0.1:8090"
 
 # 数据库文件路径（相对工作目录或绝对路径）
 db_path = "data/stock.db"
